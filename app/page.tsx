@@ -30,7 +30,6 @@ export default function Page() {
         <Image src='/hero-desktop.png'
           width={1000}
           height={760} alt={'Screenshots'} className="hidden md:block"              />
-
         <Image src='/hero-mobile.png' width={560} height={620} className='block md:hidden' alt='Screenshot mobile version' />
         </div>
       </div>
